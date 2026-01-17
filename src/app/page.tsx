@@ -43,6 +43,7 @@ export default function Home() {
             <Input placeholder="Введите пароль" />
           </div>
           <Button onClick={click}>Войти</Button>
+           <Button onClick={click}>Войти 2</Button>
         </div>
         <div className="">
           <p className="text-center">
